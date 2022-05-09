@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html",
+            "url": "https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html",
+            "title": "我的世界指令",
+            "summary": "死亡不掉落指令：/gamerule keepInventory true 命令方块指令：/give @s command_block 给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人 这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。 首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie” /scoreboard objectives add cookie dummy cookie 第一个命令方块的命令： /scoreboard players set @r cookie 1 第二个和第三个命令（两者可颠倒，但要同时被激活） /say @a[scores={cookie=1}] 已被给予五个曲奇。 /give @a[scores={cookie=1}] minecraft:cookie 5 第四个命令方块的命令 /scoreboard players set @a[scores={cookie=1}] cookie 0 上图中I代表输入红石信号原。（建议可使用永动红石电路） 允许方块：/give @s allow 拒绝方块：/give @s deny 屏障：/give&hellip;",
+            "content_html": "<p>死亡不掉落指令：/gamerule keepInventory true\n命令方块指令：/give @s command_block</p>\n<p>给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人</p>\n<p>这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。</p>\n<p>首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie”</p>\n<p>/scoreboard objectives add cookie dummy cookie</p>\n<p>第一个命令方块的命令：</p>\n<p>/scoreboard players set @r cookie 1</p>\n<p>第二个和第三个命令（两者可颠倒，但要同时被激活）</p>\n<p>/say @a[scores={cookie=1}] 已被给予五个曲奇。</p>\n<p>/give @a[scores={cookie=1}] minecraft:cookie 5</p>\n<p>第四个命令方块的命令</p>\n<p>/scoreboard players set @a[scores={cookie=1}] cookie 0</p>\n<p>上图中I代表输入红石信号原。（建议可使用永动红石电路）</p>\n<p>允许方块：/give @s allow\n拒绝方块：/give @s deny\n屏障：/give @s barrier\n边界方块：/give @s border_block。\n无限刷新方块指令：我的世界无限刷方块的指令是“/give @a minecraft:command_block”。（需命令方块）</p>\n<p>　/spawnpoint 设置重生点。\n /scoreboard 计分板。\n /experience 刷经验。\n /team 修改队伍。\n /give给予玩家物品。\n /op [玩家名称] 给某个玩家OP</p>\n<p>/deop [玩家名称] 取消某个玩家的OP\n/gm [0/1/2] [玩家名称] 给别人生存模式/创造模式/冒险模式\n/setworth [物品名称/物品ID] [数量] 设置一个东西的价格</p>\n<p>/worth [玩家名称] 查看价格，不写物品ID默认查看手上的物品价格</p>\n<p>/itemdb 查询手上所拿物品的名称和ID</p>\n<p>/mail [read/clear/send] [玩家名称] [语句] 读取/清除/发送某个离线玩家的留言\ntp [玩家名称] 强制飞到某个玩家的身边</p>\n<p>/tphere [玩家名称] 强制某个玩家飞到你身边</p>\n<p>/tpall [玩家名称] 强制所有玩家飞到你身边\n/baltop 查看财富排行榜\n/fly [玩家名称] 给某个玩家飞行的权限\n/tjail [玩家名称] [监狱名称] [时间] 玩家扔到指定的小黑屋多少时间 1d，1h，1w 等</p>\n<p>/unjail [玩家名称] [监狱名称] [时间] 多久后把玩家释放出来</p>\n<p>/deljail [玩家名称] 从小黑屋释放出某玩家</p>\n<p>/invsee 查看并可以操作某个玩家的背包</p>\n<p>/clearinventory [玩家名称] 清空某个玩家的背包\n/vanish 隐身\n/butcher（杀死附近所有的怪物）</p>\n",
+            "author": {
+                "name": "唐无双"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T16:50:24+08:00",
+            "date_modified": "2022-05-09T17:21:22+08:00"
+        },
+        {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan-2.html",
             "url": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan-2.html",
             "title": "超时空大战（第三章）",

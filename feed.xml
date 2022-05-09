@@ -3,12 +3,75 @@
     <title>Thomas无底</title>
     <link href="https://thomaszihao.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://thomaszihao.github.io/gh-pages" />
-    <updated>2022-05-09T14:32:11+08:00</updated>
+    <updated>2022-05-09T17:21:22+08:00</updated>
     <author>
         <name>唐无双</name>
     </author>
     <id>https://thomaszihao.github.io/gh-pages</id>
 
+    <entry>
+        <title>我的世界指令</title>
+        <author>
+            <name>唐无双</name>
+        </author>
+        <link href="https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html"/>
+        <id>https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html</id>
+
+        <updated>2022-05-09T17:21:22+08:00</updated>
+            <summary>
+                <![CDATA[
+                    死亡不掉落指令：/gamerule keepInventory true 命令方块指令：/give @s command_block 给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人 这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。 首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie” /scoreboard objectives add cookie dummy cookie 第一个命令方块的命令： /scoreboard players set @r cookie 1 第二个和第三个命令（两者可颠倒，但要同时被激活） /say @a[scores={cookie=1}] 已被给予五个曲奇。 /give @a[scores={cookie=1}] minecraft:cookie 5 第四个命令方块的命令 /scoreboard players set @a[scores={cookie=1}] cookie 0 上图中I代表输入红石信号原。（建议可使用永动红石电路） 允许方块：/give @s allow 拒绝方块：/give @s deny 屏障：/give&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>死亡不掉落指令：/gamerule keepInventory true
+命令方块指令：/give @s command_block</p>
+<p>给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人</p>
+<p>这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。</p>
+<p>首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie”</p>
+<p>/scoreboard objectives add cookie dummy cookie</p>
+<p>第一个命令方块的命令：</p>
+<p>/scoreboard players set @r cookie 1</p>
+<p>第二个和第三个命令（两者可颠倒，但要同时被激活）</p>
+<p>/say @a[scores={cookie=1}] 已被给予五个曲奇。</p>
+<p>/give @a[scores={cookie=1}] minecraft:cookie 5</p>
+<p>第四个命令方块的命令</p>
+<p>/scoreboard players set @a[scores={cookie=1}] cookie 0</p>
+<p>上图中I代表输入红石信号原。（建议可使用永动红石电路）</p>
+<p>允许方块：/give @s allow
+拒绝方块：/give @s deny
+屏障：/give @s barrier
+边界方块：/give @s border_block。
+无限刷新方块指令：我的世界无限刷方块的指令是“/give @a minecraft:command_block”。（需命令方块）</p>
+<p>　/spawnpoint 设置重生点。
+ /scoreboard 计分板。
+ /experience 刷经验。
+ /team 修改队伍。
+ /give给予玩家物品。
+ /op [玩家名称] 给某个玩家OP</p>
+<p>/deop [玩家名称] 取消某个玩家的OP
+/gm [0/1/2] [玩家名称] 给别人生存模式/创造模式/冒险模式
+/setworth [物品名称/物品ID] [数量] 设置一个东西的价格</p>
+<p>/worth [玩家名称] 查看价格，不写物品ID默认查看手上的物品价格</p>
+<p>/itemdb 查询手上所拿物品的名称和ID</p>
+<p>/mail [read/clear/send] [玩家名称] [语句] 读取/清除/发送某个离线玩家的留言
+tp [玩家名称] 强制飞到某个玩家的身边</p>
+<p>/tphere [玩家名称] 强制某个玩家飞到你身边</p>
+<p>/tpall [玩家名称] 强制所有玩家飞到你身边
+/baltop 查看财富排行榜
+/fly [玩家名称] 给某个玩家飞行的权限
+/tjail [玩家名称] [监狱名称] [时间] 玩家扔到指定的小黑屋多少时间 1d，1h，1w 等</p>
+<p>/unjail [玩家名称] [监狱名称] [时间] 多久后把玩家释放出来</p>
+<p>/deljail [玩家名称] 从小黑屋释放出某玩家</p>
+<p>/invsee 查看并可以操作某个玩家的背包</p>
+<p>/clearinventory [玩家名称] 清空某个玩家的背包
+/vanish 隐身
+/butcher（杀死附近所有的怪物）</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>超时空大战（第三章）</title>
         <author>

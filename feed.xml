@@ -3,7 +3,7 @@
     <title>Thomas无底</title>
     <link href="https://thomaszihao.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://thomaszihao.github.io/gh-pages" />
-    <updated>2022-05-09T20:51:38+08:00</updated>
+    <updated>2022-05-10T09:53:10+08:00</updated>
     <author>
         <name>唐无双</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html"/>
         <id>https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html</id>
+            <category term="指令大全"/>
 
-        <updated>2022-05-09T20:51:38+08:00</updated>
+        <updated>2022-05-10T09:53:10+08:00</updated>
             <summary>
                 <![CDATA[
                     死亡不掉落指令：/gamerule keepInventory true 命令方块指令：/give @s command_block 给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人 这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。 首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie” /scoreboard objectives add cookie dummy cookie 第一个命令方块的命令： /scoreboard players set @r cookie 1 第二个和第三个命令（两者可颠倒，但要同时被激活） /say @a[scores={cookie=1}] 已被给予五个曲奇。 /give @a[scores={cookie=1}] minecraft:cookie 5 第四个命令方块的命令 /scoreboard players set @a[scores={cookie=1}] cookie 0 上图中I代表输入红石信号原。（建议可使用永动红石电路） 允许方块：/give @s allow 拒绝方块：/give @s deny 屏障：/give&hellip;

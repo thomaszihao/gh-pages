@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan-3.html",
+            "url": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan-3.html",
+            "title": "超时空大战（第六章）六彩教，曾经的第一宗门",
+            "summary": "这时突然出现两个人，冷冷地说：“令牌。”神秘人拿出了自己的令牌。令牌上写着龙幻影三个大字。那两个人在那边对了半天才冷冷地说：“好了，可以进去了。” 进了大门，唐无双发现有很多空岛，用铁索连着，龙幻影说：“这些空岛都是六彩教长老级才能有的，普通弟子是在哪。“唐无双看过去，发现每人只有一个小房子，十分破旧。唐无双想：算了，以前也差不多，将就吧。 正当唐无双打算去找房子住时，龙幻影用剑挡住了他：“你还需要去进行发誓。”说完，他又带着唐无双来到发誓殿。里面只有一个老人。这个老人据龙幻影说是六彩教第一代首席长老，后因在于其他门派对战时受了伤，导致最后并没有飞升。老人看见他们后呵呵一笑，便带着唐无双进了一个特殊空间 进了空间，老人突然庄严起来，对唐无双说：“孩子，既然你是六彩教的一员，那我要告诉你，我们六彩教第一代是天下最强10人，我是最后。而曾经的六彩教是天下第一宗门！”唐无双愣住了……",
+            "content_html": "<pre><code>    这时突然出现两个人，冷冷地说：“令牌。”神秘人拿出了自己的令牌。令牌上写着龙幻影三个大字。那两个人在那边对了半天才冷冷地说：“好了，可以进去了。”\n    进了大门，唐无双发现有很多空岛，用铁索连着，龙幻影说：“这些空岛都是六彩教长老级才能有的，普通弟子是在哪。“唐无双看过去，发现每人只有一个小房子，十分破旧。唐无双想：算了，以前也差不多，将就吧。\n    正当唐无双打算去找房子住时，龙幻影用剑挡住了他：“你还需要去进行发誓。”说完，他又带着唐无双来到发誓殿。里面只有一个老人。这个老人据龙幻影说是六彩教第一代首席长老，后因在于其他门派对战时受了伤，导致最后并没有飞升。老人看见他们后呵呵一笑，便带着唐无双进了一个特殊空间\n    进了空间，老人突然庄严起来，对唐无双说：“孩子，既然你是六彩教的一员，那我要告诉你，我们六彩教第一代是天下最强10人，我是最后。而曾经的六彩教是天下第一宗门！”唐无双愣住了……\n</code></pre>\n",
+            "author": {
+                "name": "唐无双"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-11T11:19:00+08:00",
+            "date_modified": "2022-05-11T17:20:14+08:00"
+        },
+        {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhandi-wu-zhangqi-cai-jiao.html",
             "url": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhandi-wu-zhangqi-cai-jiao.html",
             "title": "超时空大战（第五章）六彩教",
@@ -22,7 +36,7 @@
                    "小说"
             ],
             "date_published": "2022-05-10T16:09:03+08:00",
-            "date_modified": "2022-05-11T08:42:19+08:00"
+            "date_modified": "2022-05-11T11:21:34+08:00"
         },
         {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhandi-si-zhang-2.html",
@@ -37,14 +51,14 @@
                    "小说"
             ],
             "date_published": "2022-05-10T11:41:29+08:00",
-            "date_modified": "2022-05-10T15:52:56+08:00"
+            "date_modified": "2022-05-11T11:21:30+08:00"
         },
         {
             "id": "https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html",
             "url": "https://thomaszihao.github.io/gh-pages/wo-de-shi-jie-zhi-ling.html",
             "title": "我的世界指令",
             "summary": "死亡不掉落指令：/gamerule keepInventory true 命令方块指令：/give @s command_block 给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人 这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。 首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie” /scoreboard objectives add cookie dummy cookie 第一个命令方块的命令： /scoreboard players set @r cookie 1 第二个和第三个命令（两者可颠倒，但要同时被激活） /say @a[scores={cookie=1}] 已被给予五个曲奇。 /give @a[scores={cookie=1}] minecraft:cookie 5 第四个命令方块的命令 /scoreboard players set @a[scores={cookie=1}] cookie 0 上图中I代表输入红石信号原。（建议可使用永动红石电路） 允许方块：/give @s allow 拒绝方块：/give @s deny 屏障：/give&hellip;",
-            "content_html": "<p>死亡不掉落指令：/gamerule keepInventory true\n命令方块指令：/give @s command_block</p>\n<p>给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人</p>\n<p>这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。</p>\n<p>首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie”</p>\n<p>/scoreboard objectives add cookie dummy cookie</p>\n<p>第一个命令方块的命令：</p>\n<p>/scoreboard players set @r cookie 1</p>\n<p>第二个和第三个命令（两者可颠倒，但要同时被激活）</p>\n<p>/say @a[scores={cookie=1}] 已被给予五个曲奇。</p>\n<p>/give @a[scores={cookie=1}] minecraft:cookie 5</p>\n<p>第四个命令方块的命令</p>\n<p>/scoreboard players set @a[scores={cookie=1}] cookie 0</p>\n<p>上图中I代表输入红石信号原。（建议可使用永动红石电路）</p>\n<p>允许方块：/give @s allow\n拒绝方块：/give @s deny\n屏障：/give @s barrier\n边界方块：/give @s border_block。\n无限刷新方块指令：我的世界无限刷方块的指令是“/give @a minecraft:command_block”。（需命令方块）</p>\n<p>　/spawnpoint 设置重生点。\n /scoreboard 计分板。\n /experience 刷经验。\n /team 修改队伍。\n /give给予玩家物品。\n /op [玩家名称] 给某个玩家OP</p>\n<p>/deop [玩家名称] 取消某个玩家的OP\n/gm [0/1/2] [玩家名称] 给别人生存模式/创造模式/冒险模式\n/setworth [物品名称/物品ID] [数量] 设置一个东西的价格</p>\n<p>/worth [玩家名称] 查看价格，不写物品ID默认查看手上的物品价格</p>\n<p>/itemdb 查询手上所拿物品的名称和ID</p>\n<p>/mail [read/clear/send] [玩家名称] [语句] 读取/清除/发送某个离线玩家的留言\ntp [玩家名称] 强制飞到某个玩家的身边</p>\n<p>/tphere [玩家名称] 强制某个玩家飞到你身边</p>\n<p>/tpall [玩家名称] 强制所有玩家飞到你身边\n/baltop 查看财富排行榜\n/fly [玩家名称] 给某个玩家飞行的权限\n/tjail [玩家名称] [监狱名称] [时间] 玩家扔到指定的小黑屋多少时间 1d，1h，1w 等</p>\n<p>/unjail [玩家名称] [监狱名称] [时间] 多久后把玩家释放出来</p>\n<p>/deljail [玩家名称] 从小黑屋释放出某玩家</p>\n<p>/invsee 查看并可以操作某个玩家的背包</p>\n<p>/clearinventory [玩家名称] 清空某个玩家的背包\n/vanish 隐身\n/butcher（杀死附近所有的怪物）</p>\n",
+            "content_html": "<p>死亡不掉落指令：/gamerule keepInventory true\n命令方块指令：/give @s command_block</p>\n<p>给予一个人五块饼干:给予一个随机玩家一个物品并告诉所有人</p>\n<p>这个装置会给予一个随机玩家五个曲奇，然后告诉所有人。</p>\n<p>首先创建一个记分板(名字任意，注意除非在你测试，否则不要显示它)，比如说“cookie”</p>\n<p>/scoreboard objectives add cookie dummy cookie</p>\n<p>第一个命令方块的命令：</p>\n<p>/scoreboard players set @r cookie 1</p>\n<p>第二个和第三个命令（两者可颠倒，但要同时被激活）</p>\n<p>/say @a[scores={cookie=1}] 已被给予五个曲奇。</p>\n<p>/give @a[scores={cookie=1}] minecraft:cookie 5</p>\n<p>第四个命令方块的命令</p>\n<p>/scoreboard players set @a[scores={cookie=1}] cookie 0</p>\n<p>上图中I代表输入红石信号原。（建议可使用永动红石电路）</p>\n<p>允许方块：/give @s allow\n拒绝方块：/give @s deny\n屏障：/give @s barrier\n边界方块：/give @s border_block。\n无限刷新方块指令：我的世界无限刷方块的指令是“/give @a minecraft:command_block”。（需命令方块）</p>\n<p>　/spawnpoint 设置重生点。\n /scoreboard 计分板。\n /experience 刷经验。\n /team 修改队伍。\n /give给予玩家物品。\n /op [玩家名称] 给某个玩家OP</p>\n<p>/deop [玩家名称] 取消某个玩家的OP\n/gm [0/1/2] [玩家名称] 给别人生存模式/创造模式/冒险模式\n/setworth [物品名称/物品ID] [数量] 设置一个东西的价格</p>\n<p>/worth [玩家名称] 查看价格，不写物品ID默认查看手上的物品价格</p>\n<p>/itemdb 查询手上所拿物品的名称和ID</p>\n<p>/mail [read/clear/send] [玩家名称] [语句] 读取/清除/发送某个离线玩家的留言\ntp [玩家名称] 强制飞到某个玩家的身边</p>\n<p>/tphere [玩家名称] 强制某个玩家飞到你身边</p>\n<p>/tpall [玩家名称] 强制所有玩家飞到你身边\n/baltop 查看财富排行榜\n/fly [玩家名称] 给某个玩家飞行的权限\n/tjail [玩家名称] [监狱名称] [时间] 玩家扔到指定的小黑屋多少时间 1d，1h，1w 等</p>\n<p>/unjail [玩家名称] [监狱名称] [时间] 多久后把玩家释放出来</p>\n<p>/deljail [玩家名称] 从小黑屋释放出某玩家</p>\n<p>/invsee 查看并可以操作某个玩家的背包</p>\n<p>/clearinventory [玩家名称] 清空某个玩家的背包\n/vanish 隐身\n/butcher（杀死附近所有的怪物）\n/gamemode 0 生存</p>\n<p>　　/gamemode 1 创造</p>\n<p>　　/gamemode 2 冒险</p>\n<p>　　/gamemode 3 旁观 (旧版本不能使用)</p>\n",
             "author": {
                 "name": "唐无双"
             },
@@ -52,7 +66,7 @@
                    "指令大全"
             ],
             "date_published": "2022-05-09T16:50:24+08:00",
-            "date_modified": "2022-05-10T10:54:35+08:00"
+            "date_modified": "2022-05-11T15:13:06+08:00"
         },
         {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan-2.html",
@@ -67,7 +81,7 @@
                    "小说"
             ],
             "date_published": "2022-05-09T13:35:51+08:00",
-            "date_modified": "2022-05-10T15:52:37+08:00"
+            "date_modified": "2022-05-11T11:21:23+08:00"
         },
         {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhandi-er-zhang.html",
@@ -82,14 +96,14 @@
                    "小说"
             ],
             "date_published": "2022-05-08T17:30:03+08:00",
-            "date_modified": "2022-05-10T15:52:17+08:00"
+            "date_modified": "2022-05-11T11:21:19+08:00"
         },
         {
             "id": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan.html",
             "url": "https://thomaszihao.github.io/gh-pages/chao-shi-kong-da-zhan.html",
             "title": "超时空大战（序章加第一章）开篇点题",
             "summary": "只听“轰”的一声，一个身影嵌在了墙上。他就是我们的主角——唐无双。这时，一群人过来了。只听站在最前的人说道：”小子，敢不交保护费，胆挺肥呀!”“我不是前几天刚交吗？怎么又要交?”唐无双说。“我涨价不行啊，小的们，给我上！”“啊————————！” 等唐无双回家，早已衣服破烂，浑身是血。打开门，映入眼帘的是破烂不堪的家：破旧的床，破旧的桌子，破烂的椅子和破烂的门。由于五灵（刚才收保护费的人）的长期剥削，导致许多人都成了这样，甚至有些人房子都没了。而他们也不敢造反，因为五灵的父亲是村长，村长又很疼爱五灵，这才导致了五灵无法无天。而唯一的办法就是有人通过天选。但是天选难如上青天，所以直到现在也没人被天选选上。而现在由于他们实在没钱，便打算让年轻一辈去天选。而唐无双便在其中…… 点赞过十，更新不断。",
-            "content_html": "<pre><code>   只听“轰”的一声，一个身影嵌在了墙上。他就是我们的主角——唐无双。这时，一群人过来了。只听站在最前的人说道：”小子，敢不交保护费，胆挺肥呀!”“我不是前几天刚交吗？怎么又要交?”唐无双说。“我涨价不行啊，小的们，给我上！”“啊————————！”\n   等唐无双回家，早已衣服破烂，浑身是血。打开门，映入眼帘的是破烂不堪的家：破旧的床，破旧的桌子，破烂的椅子和破烂的门。由于五灵（刚才收保护费的人）的长期剥削，导致许多人都成了这样，甚至有些人房子都没了。而他们也不敢造反，因为五灵的父亲是村长，村长又很疼爱五灵，这才导致了五灵无法无天。而唯一的办法就是有人通过天选。但是天选难如上青天，所以直到现在也没人被天选选上。而现在由于他们实在没钱，便打算让年轻一辈去天选。而唐无双便在其中……\n         \n</code></pre>\n<p>点赞过十，更新不断。\n    </p>\n",
+            "content_html": "<pre><code>   只听“轰”的一声，一个身影嵌在了墙上。他就是我们的主角——唐无双。这时，一群人过来了。只听站在最前的人说道：”小子，敢不交保护费，胆挺肥呀!”“我不是前几天刚交吗？怎么又要交?”唐无双说。“我涨价不行啊，小的们，给我上！”“啊————————！”\n   等唐无双回家，早已衣服破烂，浑身是血。打开门，映入眼帘的是破烂不堪的家：破旧的床，破旧的桌子，破烂的椅子和破烂的门。由于五灵（刚才收保护费的人）的长期剥削，导致许多人都成了这样，甚至有些人房子都没了。而他们也不敢造反，因为五灵的父亲是村长，村长又很疼爱五灵，这才导致了五灵无法无天。而唯一的办法就是有人通过天选。但是天选难如上青天，所以直到现在也没人被天选选上。而现在由于他们实在没钱，便打算让年轻一辈去天选。而唐无双便在其中……\n         \n    点赞过十，更新不断。\n</code></pre>\n",
             "author": {
                 "name": "唐无双"
             },
@@ -97,7 +111,7 @@
                    "小说"
             ],
             "date_published": "2022-05-08T14:13:51+08:00",
-            "date_modified": "2022-05-10T15:52:03+08:00"
+            "date_modified": "2022-05-11T11:21:10+08:00"
         }
     ]
 }

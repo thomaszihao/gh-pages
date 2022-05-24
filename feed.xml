@@ -3,12 +3,379 @@
     <title>Thomas无底</title>
     <link href="https://thomaszihao.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://thomaszihao.github.io/gh-pages" />
-    <updated>2022-05-16T10:46:48+08:00</updated>
+    <updated>2022-05-24T09:14:18+08:00</updated>
     <author>
         <name>唐无双</name>
     </author>
     <id>https://thomaszihao.github.io/gh-pages</id>
 
+    <entry>
+        <title>官网源代码</title>
+        <author>
+            <name>唐无双</name>
+        </author>
+        <link href="https://thomaszihao.github.io/gh-pages/guan-wang-yuan-dai-ma.html"/>
+        <id>https://thomaszihao.github.io/gh-pages/guan-wang-yuan-dai-ma.html</id>
+            <category term="源代码"/>
+
+        <updated>2022-05-24T09:14:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                    我的世界开发者官网 !function(){function e(e,o){var n=new RegExp("(?:&|/?)"+o+"=([^&$]+)").exec(e);return n?n[1]:""}1==/iphone|android|ipod/i.test(navigator.userAgent.toLowerCase())&&"mobile"!=e(location.search,"from")&&(location.href="//mc.163.com/m/dev/index.html")}(); &lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://mc.res.netease.com/pc/gw/20210923154534/pkg/guide_5f6545a.css&quot;&gt; 《我的世界》中国版推出创造者计划了！使用开发者平台上传作品，参与开发者社区交流，与中国玩家分享你的创意！ 《我的世界》中国版推出创造者计划了！使用开发者平台上传作品，参与开发者社区交流，与中国玩家分享你的创意！ 我的世界创造者计划 -《我的世界》中国版 {{item.name}} 搜索 取消 下载课程到本地 登录/注册 [退出] 下载开发工作台 返回首页 扫一扫关注 微信公众号 扫一扫关注 网易大神 扫一扫关注 开发者B站 开发者论坛 问题反馈 (144538672) 1群 (644091954) 2群 &lt;div class=&quot;share-box1&quot; id=&quot;NIE-share&quot;&gt;&lt;/div&gt; &lt;div class=&quot;tab_list&quot;&gt; &lt;div class=&quot;tab active&quot; data-type=&quot;czkfz&quot;&gt;开发者&lt;/div&gt; &lt;div class=&quot;tab&quot;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!DOCTYPE html>
+<html>
+
+<head>
+    <title>我的世界开发者官网</title>
+    <meta name="from" content="git:MC/mc-zt-pc-47766-20210923">
+    <meta name="author" content="网易，NetEase Inc.">
+    <meta name="copyright" content="网易，NetEase Inc.">
+    <meta name="front-end technicist" content="zhengxuze,mod">
+    <meta name="editor" content="huchudi">
+    <meta name="pmid" content="47766">
+<meta name="keywords" content="我的世界创造者计划,我的世界开发者计划,我的世界中国版投稿,我的世界作品分享,我的世界开发者,我的世界中国版开发者,我的世界建筑,我的世界插件,我的世界红石,我的世界游戏地图,我的世界命令方块,我的世界服务器">
+<meta name="description" content="《我的世界》中国版创造者计划，邀请开发者加入我的世界中国版，注册成为开发者，在开发者平台投稿内容，加入开发者社区与众多开发者交流经验与灵感。">
+<meta charset="utf-8">
+<!--项目meta信息，请编辑提供 start-->
+<meta name="applicable-device" content="PC">
+<!--项目meta信息，请编辑提供 end-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="renderer" content="webkit">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<link rel="dns-prefetch" href="https://nie.res.netease.com">
+<script type="text/javascript">!function(){function e(e,o){var n=new RegExp("(?:&|/?)"+o+"=([^&$]+)").exec(e);return n?n[1]:""}1==/iphone|android|ipod/i.test(navigator.userAgent.toLowerCase())&&"mobile"!=e(location.search,"from")&&(location.href="//mc.163.com/m/dev/index.html")}();</script>
+<!--ignore-->
+<link type="text/css" rel="stylesheet" href="https://nie.res.netease.com/comm/js/nie/util/alertBox/css/alertBox.css" media="all">
+
+<pre><code>&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://mc.res.netease.com/pc/gw/20210923154534/pkg/guide_5f6545a.css&quot;&gt;
+</code></pre>
+</head>
+
+<body>
+    <!--此乃头部-->
+    <div id="NIE-topBar"></div>
+    <!--分享文案-->
+<div id="share_content" style="display:none">
+    <div id="share_title" pub-name="分享文案">《我的世界》中国版推出创造者计划了！使用开发者平台上传作品，参与开发者社区交流，与中国玩家分享你的创意！</div>
+    <div id="share_desc" pub-name="分享文本">《我的世界》中国版推出创造者计划了！使用开发者平台上传作品，参与开发者社区交流，与中国玩家分享你的创意！</div>
+    <img loading="lazy" id="share_img" pub-name="分享图片" data-src="https://mc.res.netease.com/pc/gw/20210923154534/img/share_54f2f5d.jpg" data-is-external-image="true" >
+</div>
+<h1 style="display: none;">我的世界创造者计划 -《我的世界》中国版</h1>
+    <div class="container" id="guide">
+        <div class="nav-bar">
+    <template>
+        <div class="center-cont">
+            <div class="logo-cont" :class="navType == 1?'open-right-show':''">
+                <div class="logo">
+                    <a href="//mc.163.com/index.html" target="_blank"></a>
+                </div>
+            </div>
+                <div class="nav-btn" :class="navType == 1?'open-right-show':''" v-if="navArr">
+                    <a :href="pageUrl.indexOf(item.url)!=-1?'javascript:;':item.url" class="item" :class="{ 'cur': navCur == index,'area-item': item.tabhover}" v-for="(item, index) in navArr" :key="index">{{item.name}}</a>
+                </div>
+        </div>
+        <div class="btn-cont" :class="navType == 1?' open-left-show':''">
+            <div class="search" @click="switchSearch(2)" v-if="navType && (navType == 1 && !dlLinks)">
+                搜索
+            </div>
+            <div class="cancel" @click="switchSearch(1)" v-if="navType && (navType == 2 && !dlLinks)">
+                取消
+            </div>
+            <a class="dllinks" :href="dlLinks" v-if="dlLinks">下载课程到本地</a>
+            <div class="show" :class="dlLinks||navType?'login gap':'login'">
+                登录/注册
+            </div>
+            <div class="logout" :class="dlLinks||navType?'gap':''">
+                <span class="username"></span><span class="logout-btn">[退出]</span>
+            </div>
+            <a class="dl-btn" href="//adl.netease.com/d/g/mc/c/dev" target="_blank" title="下载开发工作台" v-if="navType == 1">下载开发工作台</a>
+            <a class="back" href="//mc.163.com/dev/index.html" target="_blank" title="返回首页" v-else="">返回首页</a>
+        </div>
+    </template>
+</div>
+
+<div class="nav-tab">
+    <div class="tab-inner">
+        <div class="qr-code-area">
+            <div class="item item-1">
+                <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/qr_code_f75e9b2.png" data-is-external-image="true"  alt="">
+                <p class="desc">扫一扫关注<br>微信公众号</p>
+            </div>
+            <div class="item item-2">
+                <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/ds_qrcode_cac0748.png" data-is-external-image="true"  alt="">
+                <p class="desc">扫一扫关注<br>网易大神</p>
+            </div>
+            <div class="item item-3">
+                <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/bz_qrcode_37d4a69.jpg" data-is-external-image="true"  alt="">
+                <p class="desc">扫一扫关注<br>开发者B站</p>
+            </div>
+        </div>
+        <div class="contact-area">
+            <div class="item item-1">
+                <a href="http://mc.netease.com/forum-111-1.html" title="开发者论坛">
+                    <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/lt_icon_tab_240c358.png" data-is-external-image="true"  alt="">
+                    <p class="desc">开发者论坛</p>
+                </a>
+            </div>
+            <div class="item item-2">
+                <a href="https://mcdev.webapp.163.com/#/feedbackModal?target=browser" title="问题反馈">
+                    <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/feedback_icon_a9e74b6.png" data-is-external-image="true"  alt="">
+                    <p class="desc">问题反馈</p>
+                </a>
+            </div>
+        </div>
+        <div class="group-area">
+            <div class="row row-1">
+                <div class="item item-1">
+                    <p class="group-desc">(144538672) 1群</p>
+                    <a class="add-btn" href="https://jq.qq.com/?_wv=1027&k=D1Urm1j">一键入群</a>
+                </div>
+                <div class="item item-2">
+                    <p class="group-desc">(644091954) 2群</p>
+                    <a class="add-btn" href="https://jq.qq.com/?_wv=1027&k=YLJocR46">一键入群</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="side-bar-cont" :class="navType == 1?'open-show':''" v-if="navCur == 11">
+    <div class="join-cont">
+        <img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/side_nav_img_29f5926.png" data-is-external-image="true"  alt="">
+        <a href="javascript:;" title="成为开发者" class="be-dev" data-type="1">成为开发者</a>
+    </div>
+    <div class="side_bar">
+
+<pre><code>    &lt;div class=&quot;share-box1&quot; id=&quot;NIE-share&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;tab_list&quot;&gt;
+        &lt;div class=&quot;tab active&quot; data-type=&quot;czkfz&quot;&gt;开发者&lt;/div&gt;
+        &lt;div class=&quot;tab&quot; data-type=&quot;czmxj&quot;&gt;冒险家&lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;sc_wrap1 sc_wrap show&quot;&gt;
+        &lt;div class=&quot;img_w&quot;&gt;
+            &lt;img src=&quot;https://mc.res.netease.com/pc/gw/20210923154534/img/kfz_qrcode_1665c03.jpg&quot; alt=&quot;二维码&quot;&gt;
+        &lt;/div&gt;
+        &lt;p&gt;扫一扫关注微信&lt;br&gt; 我的世界开发者
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;sc_wrap2 sc_wrap&quot;&gt;
+        &lt;div class=&quot;img_w&quot;&gt;
+            &lt;img src=&quot;https://mc.res.netease.com/pc/gw/20210923154534/img/mxz_qrcode_5ad83c6.jpg&quot; alt=&quot;二维码&quot;&gt;
+        &lt;/div&gt;
+        &lt;p&gt;扫一扫关注微信&lt;br&gt; 我的世界Minecraft
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;side-nav&quot;&gt;
+    &lt;div class=&quot;item item-1&quot;&gt;
+        &lt;a class=&quot;icon&quot; href=&quot;javascript:;&quot;&gt;&lt;/a&gt;
+        &lt;div class=&quot;text&quot;&gt;回到顶部&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item item-2&quot;&gt;
+        &lt;a class=&quot;icon&quot; href=&quot;#platform&quot;&gt;&lt;/a&gt;
+        &lt;div class=&quot;text&quot;&gt;了解开发者&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item item-3&quot;&gt;
+        &lt;a class=&quot;icon&quot; href=&quot;#revenue&quot;&gt;&lt;/a&gt;
+        &lt;div class=&quot;text&quot;&gt;多营收赛道&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item item-4&quot;&gt;
+        &lt;a class=&quot;icon&quot; href=&quot;#tools&quot;&gt;&lt;/a&gt;
+        &lt;div class=&quot;text&quot;&gt;工具与文档&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item item-5&quot;&gt;
+        &lt;a class=&quot;icon&quot; href=&quot;#course&quot;&gt;&lt;/a&gt;
+        &lt;div class=&quot;text&quot;&gt;全方位教程&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+</div>
+
+<pre><code>    &lt;div class=&quot;open-side&quot;&gt;&lt;/div&gt;
+    &lt;template&gt;
+        &lt;div class=&quot;side&quot; :style=&quot;pageHeight&quot;&gt;
+&lt;div class=&quot;side-placeholder&quot;&gt;&lt;/div&gt;
+
+            &lt;div class=&quot;side-inner&quot;&gt;
+&lt;div class=&quot;hide-side&quot;&gt;&lt;/div&gt;
+&lt;div :class=&quot;isFocus?&#39;filter-side facus&#39;:&#39;filter-side&#39;&quot;&gt;
+    &lt;input type=&quot;text&quot; placeholder=&quot;输入文档标题进行筛选&quot; @input=&quot;changeDocsTit($event)&quot; @focus=&quot;changeFocus(true)&quot; @blur=&quot;changeFocus(false)&quot;&gt;
+    &lt;div class=&quot;filter-icon&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;template&gt;
+    &lt;div class=&quot;side-bar&quot;&gt;&lt;/div&gt;
+&lt;/template&gt;
+</code></pre>
+</div>
+            </div>
+            <div class="banner"><img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/guide/banner_4a5a4ed.jpg" data-is-external-image="true"  alt=""></div>
+            <div class="right-cont" style="width: calc(100% - 288px)">
+                <div class="main-cont">
+                        <div class="top-cont">
+                        <p class="tit">{{mainTit}}</p>
+                        <p class="intro" v-html="mainIntro"></p>
+                    </div>
+                        <template>
+    <div class="search-cont">
+        <div class="search-box">
+            <input type="text" :placeholder="'在“'+mainTit+'”里面搜索'" @input="changeSearch($event)">
+            <div class="search-btn" @click="skipToSearch()">搜索</div>
+        </div>
+        <div class="search-list" v-if="searchList.length && showSearchList">
+            <div class="item" v-for="(item, index) in searchList" :key="index">
+                <div class="links-cont"><p>{{item.path}}</p></div>
+                <div class="links" v-for="(link, linkIndex) in item.links" :key="linkIndex">
+                    <a :href="link.url">
+                        <p class="name" v-html="link.title"></p>
+                        <p class="text" v-html="link.text"></p>
+                    </a>
+                </div>
+            </div>
+            <a class="more" v-if="searchMore.url" :href="searchMore.url"><p>{{searchMore.name}}</p></a>
+        </div>
+        <div class="notfound" v-if="!searchList.length && showSearchList">
+            <p class="wjg">无结果</p>
+        </div>
+    </div>
+</template>
+                        <div class="page-cont">
+                        <div class="item" v-for="(item, index) in mainArr" :key="index">
+                            <p class="item-tit">{{item.tit}}</p>
+                            <div class="links-cont">
+                                <div class="links" v-for="(links, linksindex) in item.links" :key="linksindex">
+                                    <a :href="links.url" target="_blank">
+                                        <img loading="lazy" :src="links.imgUrl" data-is-external-image="true"  alt="">
+                                        <div class="img-mask"></div>
+                                        <div class="info-cont">
+                                            <p class="link-tit">{{links.tit}}</p>
+                                            <p class="link-time" v-if="links.time">{{links.time}}</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <a :href="item.more" target="_blank" class="more">了解更多</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </template>
+    </div>
+    <!--版权-->
+<div class="footer">
+    <div id="NIE-copyRight"></div>
+</div>
+    <!--遮罩层-->
+<div class="Layer"></div>
+<!--视频弹层-->
+<div class="pop video-pop" id="video-pop">
+    <a href="javascript:;" class="close" title="关闭"><s></s></a>
+    <div class="video-box"></div>
+</div>
+<!-- 登录 -->
+<div class="pop loginPop" id="loginPop">
+    <a class="close" href="javascript:;" title="关闭"></a>
+    <div class="logainBox">
+        <p class="tit">登录</p>
+        <div id="example"></div>
+    </div>
+</div>
+<!-- 问题反馈 -->
+<div class="pop feedback-pop" id="feedback-pop">
+    <a href="javascript:;" class="close" title="关闭"><s></s></a>
+    <div class="loginBox">
+        <p>
+            <em><span>未登录</span></em>
+            <a class="login" href="javascript:;" title="登录">登录</a>
+            <!-- <a class="chbind" href="javascript:;" title="换绑">换绑</a> -->
+        </p>
+    </div>
+    <div class="tit"></div>
+    <div class="box-bq">
+        <p>问题分类标签栏</p>
+        <i></i>
+    </div>
+    <div class="text">
+        <textarea id="feedback-text" maxlength="150" placeholder="请输入你要反馈的问题"></textarea>
+        <p class="length"><span>0</span>/150</p>
+    </div>
+    <div class="question_box addimg">
+        <div class="uploadareaimg">
+            <div class="uploadcontent" id="resultblock_52496">
+                <i class="iconfont">&#xe6e7;</i>
+            </div>
+            <input type="file" class="uploadinput" data-id="52496" accept="image/*" multiple="multiple" name="question_upload52496" id="question_upload52496">
+            <input name="question52496" hidden id="question52496">
+        </div>
+    </div>
+    <a class="submit" href="javascript:;">我要反馈</a>
+</div>
+<!-- 问题反馈中的标签 -->
+<div class="pop feedback_bq-pop" id="feedback_bq-pop">
+    <a href="javascript:;" class="close" title="关闭"><s></s></a>
+    <div class="tit"></div>
+    <p class="des"><img loading="lazy" src="https://mc.res.netease.com/pc/gw/20210923154534/img/home/p_i_81f6ba2.png" data-is-external-image="true"  alt="img">选择分类标签可让反馈更有效</p>
+    <ul class="select">
+        <li data-q="A"><i><s></s></i>
+            <p>McStudio</p>
+        </li>
+        <li data-q="B"><i><s></s></i>
+            <p>模组SDK</p>
+        </li>
+        <li data-q="C"><i><s></s></i>
+            <p>网络游戏开服工具</p>
+        </li>
+        <li data-q="D"><i><s></s></i>
+            <p>地图</p>
+        </li>
+        <li data-q="E"><i><s></s></i>
+            <p>模型特效</p>
+        </li>
+        <li data-q="F"><i><s></s></i>
+            <p>界面开发</p>
+        </li>
+        <li data-q="G"><i><s></s></i>
+            <p>API问题</p>
+        </li>
+        <li data-q="H"><i><s></s></i>
+            <p>教学内容</p>
+        </li>
+        <li data-q="I"><i><s></s></i>
+            <p>官网排版</p>
+        </li>
+        <li data-q="J"><i><s></s></i>
+            <p>其他</p>
+        </li>
+    </ul>
+    <div class="sele_show">
+        <div class="out"></div>
+        <div class="affirm"></div>
+    </div>
+</div>
+
+
+<pre><code>&lt;script src=&quot;https://nie.res.netease.com/comm/js/jquery(mixNIE).1.11.js&quot;&gt;&lt;/script&gt;
+
+&lt;script charset=&quot;utf-8&quot; src=&quot;https://mc.res.netease.com/pc/gw/20210923154534/js/lib/vue_3478973.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot; src=&quot;https://mc.res.netease.com/pc/gw/20210923154534/pkg/guide_index_cc9ec9d.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;nie.config.copyRight.setWhite();&lt;/script&gt;
+&lt;!--end--&gt;
+</code></pre>
+</body>
+
+</html>
+<!--This is Git Project From MC/mc-zt-pc-47766-20210923(20048)-->
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>超时空大战（第七章）初来乍到</title>
         <author>
